@@ -6,4 +6,4 @@ With my c++ program, you can now do just that!
 Future Goals: 
 1. Single Elimination Bracket
 2. Double Elimination Bracket 
-3. GUI (so you dont have to do it through the console :/ 
+3. GUI (so you dont have to do it through the console :/ ) 
