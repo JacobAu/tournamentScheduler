@@ -7,3 +7,7 @@ Future Goals:
 1. Single Elimination Bracket
 2. Double Elimination Bracket 
 3. GUI (so you dont have to do it through the console :/ ) 
+
+
+## notes 
+Really the purpose of this was to refresh my knowedge of C++ syntax and memory management of the heap. Pointers, passing by reference, and general algorithm implementation were my goals.
